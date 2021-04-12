@@ -3,7 +3,7 @@ I’m M Rahman and @codeWithMiza my github username
 
 👀 I’m interested in web_application designing and developing
 
-- 🔭I’m currently learning python for back_end development and ract_js for font_end development but I am highly interested in java for development.
+- 🔭I’m currently learning python for back_end development and react_js for font_end development but I am highly interested in java for development.
 
 📫 How to reach me:
 -  1 )  https://codingdusp.herokuapp.com/
