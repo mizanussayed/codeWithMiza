@@ -1,4 +1,4 @@
-I’m M Rahman and @codeWithMiza my github username
+I’m M Rahman and dot net developer 
 
 
 👀 I’m interested in web_application designing and developing
