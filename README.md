@@ -7,9 +7,9 @@ I’m M Rahman and dot net developer
 
 📫 How to reach me:
 -  1 )  https://codingdusp.herokuapp.com/
--  2 )  https://codewithmiza.github.io/glozzom/
--  3 )  https://codewithmiza.github.io/mizuxe/
--  4 )  https://codewithmiza.github.io/onlinedisign
+-  2 )  https://mizanussayed.github.io/glozzom/
+-  3 )  https://mizanussayed.github.io/mizuxe/
+-  4 )  https://mizanussayed.github.io/onlinedisign
 
 
 
